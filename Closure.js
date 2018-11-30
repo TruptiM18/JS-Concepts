@@ -1,5 +1,10 @@
 
-//Examples to understand Javascript Closures
+/* ------------------ Closures ------------------- */
+/* All questions,code snippets and explanation for this topic has been taken from -
+http://javascript.info
+https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
+Please note thet the aim of this repository is to just collate code snippets and explanation for various JS concepts from good sources on Internet.
+*/
 
 /**************************************
 Concept #1
